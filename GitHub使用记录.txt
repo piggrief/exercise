@@ -1,0 +1,4 @@
+一般只需要在Git Bash里面输入
+第一步：        git add 文件名
+第二步：        git commit -m "输入此次改动的注释备注"
+第三步：        git push origin 分支名（默认master）
